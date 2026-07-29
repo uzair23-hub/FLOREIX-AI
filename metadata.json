@@ -1,0 +1,6 @@
+{
+  "name": "Floerix AI Lead Generator",
+  "description": "An AI-powered lead generation system & CRM that scrapes businesses, calculates lead scores, qualifies buying intent, and manages sales pipelines with automation and AI chat assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
